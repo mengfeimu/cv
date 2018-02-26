@@ -30,6 +30,10 @@
            <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
            {% endif %}
 
+           {% if site.google_scholar %}
+           <li class="website"><i class="fa fa-globe"></i><a href="{{site.google_scholar}}" target="_blank">Google Scholar</a></li>
+           {% endif %}
+
            {% if site.linkedin %}
            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin}}" target="_blank">{{site.linkedin}}</a></li>
            {% endif %}
