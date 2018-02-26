@@ -1,8 +1,8 @@
 # Site Settings
-title: My Resume
+title: My CV
 url: 'https://mengfeimu.github.io'
-baseurl: '/online-cv' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+baseurl: '/cv' #change it according to your repository name
+#about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -18,8 +18,8 @@ name: Mengfei Mu
 tagline: A PhD Candidate in Water Science
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'I am a PhD candidate in Chinese Academy of Sciences. Major research interests are hydrology and
-water resources management. 
- '
+water resources management. I am open to any discussion and communication related to academic research. Contact me via email
+if you need.'
 
 #sidebar links
 email: mengfeimu@foxmail.com
