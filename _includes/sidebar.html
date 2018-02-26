@@ -26,12 +26,12 @@
            <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
            {% endif %}
 
-           {% if site.website %}
-           <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
-           {% endif %}
-
            {% if site.google_scholar %}
            <li class="website"><i class="fa fa-globe"></i><a href="{{site.google_scholar}}" target="_blank">Google Scholar</a></li>
+           {% endif %}
+
+           {% if site.website %}
+           <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">"Blog"</a></li>
            {% endif %}
 
            {% if site.linkedin %}
@@ -39,7 +39,7 @@
            {% endif %}
 
            {% if site.github %}
-           <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">{{site.github}}</a></li>
+           <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">"Github"</a></li>
            {% endif %}
 
            {% if site.twitter %}
