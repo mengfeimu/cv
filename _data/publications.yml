@@ -2,6 +2,5 @@ intro: "You can list your publications in this section. Lorem ipsum dolor
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 publications:
   - paper:
-    title: Multimodel uncertainty changes in simulated river flows induced by human impact parameterizations
-    authors: Liu, X., Tang, Q., Cui, H., Mu, M., Gerten, D., Gosling, S.N., Masaki, Y., Satoh, Y., Wada, Y.
-    conference: 2017, Environmental Research Letters 12, 025009. https://doi.org/10.1088/1748-9326/aa5a3a
+    title: Liu, X., Tang, Q., Cui, H., Mu, M., Gerten, D., Gosling, S.N., Masaki, Y., Satoh, Y., Wada, Y., 2017. Multimodel uncertainty changes in simulated river flows induced by human impact parameterizations. Environmental Research Letters 12, 025009. https://doi.org/10.1088/1748-9326/aa5a3a
+
