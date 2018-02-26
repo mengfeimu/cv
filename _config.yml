@@ -34,7 +34,8 @@ github: mengfeimu
 education_in_main: True
 
 # Tracker
-analytics: UA-102161534-1
+#analytics: UA-102161534-1
+google_analytics_id: UA-102161534-1
 
 # Build settings
 encoding: "utf-8"
